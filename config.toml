@@ -19,7 +19,8 @@ rv-brand = "ReVanced Extended"
 cli-source = "j-hc/revanced-cli"
 build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-apkmirror-arch = "both"
+apkmirror-arch = "arm64-v8a"
+excluded-patches = "'Custom branding Music name' 'Custom branding icon Revancify blue'"
 
 [YouTube-Extended]
 app-name = "YouTube"
@@ -28,6 +29,8 @@ integrations-source = "inotia00/revanced-integrations"
 cli-source = "j-hc/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
+included-patches = "'Add splash animation'"
+excluded-patches = "'Custom branding YouTube name' 'Custom branding icon Revancify blue'"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Music]
