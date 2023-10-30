@@ -20,29 +20,28 @@ build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 apkmirror-arch = "both"
 
-[Music-Extended]
-app-name = "Music"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-cli-source = "j-hc/revanced-cli"
-build-mode = "both"
-excluded-patches = "'Custom branding Music name' 'Custom branding icon MMT' 'Custom branding icon Revancify blue' 'Custom branding icon Revancify red' 'Custom package name' 'Enable debug logging'"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
-apkmirror-arch = "arm64-v8a"
-
 [YouTube-Extended]
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
-cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 cli-source = "j-hc/revanced-cli"
 build-mode = "both"
-included-patches = "'Add splash animation'"
-excluded-patches = "'Custom branding YouTube name' 'Custom branding icon MMT' 'Custom branding icon Revancify blue' 'Custom branding icon Revancify red' 'Custom package name' 'Enable debug logging'"
+included-patches = "'Add splash animation' 'Force hide player button background' 'Hide double tap overlay filter'"
+excluded-patches = "'Custom branding icon Revancify Blue' 'Custom branding name YouTube'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
+
+[Music-Extended]
+app-name = "Music"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
+rv-brand = "ReVanced Extended"
+cli-source = "j-hc/revanced-cli"
+build-mode = "both"
+apkmirror-arch = "arm64-v8a"
+included-patches = "'Enable old player layout' 'Replace cast button'"
+excluded-patches = "'Custom branding icon Revancify Blue' 'Custom branding name YouTube Music'"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 
 [Twitter]
 build-mode = "apk"
