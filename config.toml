@@ -27,7 +27,7 @@ integrations-source = "inotia00/revanced-integrations"
 rv-brand = "ReVanced Extended"
 cli-source = "inotia00/revanced-cli"
 build-mode = "both"
-included-patches = "'Add splash animation'"
+included-patches = "'Add splash animation' 'Hide player button background'"
 excluded-patches = "'Custom branding icon Revancify Blue' 'Custom branding name YouTube'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
