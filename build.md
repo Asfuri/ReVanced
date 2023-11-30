@@ -1,9 +1,8 @@
-Music-Extended: 6.28.52  
 YouTube-Extended: 18.45.43  
-Twitch: 16.9.1  
+Music-Extended: 6.28.52  
 Twitter: 10.16.0-release.0  
-TikTok: 30.8.4  
 Reddit: 2023.45.0  
+Twitch: 16.9.1  
 Spotify: 8.8.90.893  
 Citra: bed6a4f12  
 
