@@ -67,3 +67,6 @@ build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 included-patches = "'Hide player button background'"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube' 'Enable new splash animation'"
+
+[Photomath]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath"
