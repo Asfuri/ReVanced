@@ -1,8 +1,8 @@
-Music-Extended: 7.13.52  
 Twitter: 10.55.1-release.0  
-YouTube-Extended: 19.16.39  
-Twitch: 16.9.1  
 TikTok: 32.5.3  
+Music-Extended: 7.13.52  
+Twitch: 16.9.1  
+YouTube-Extended: 19.16.39  
 Reddit-Extended: 2024.17.0  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
