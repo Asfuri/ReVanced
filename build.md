@@ -1,7 +1,7 @@
 Music-Extended: 7.16.53  
-Twitter: 10.60.0-release.0  
-Twitch: 16.9.1  
 YouTube-Extended: 19.16.39  
+Twitter: 10.61.0-release.0  
+Twitch: 16.9.1  
 Reddit-Extended: 2024.17.0  
 TikTok: 36.5.4  
 
