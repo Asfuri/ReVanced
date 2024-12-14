@@ -40,7 +40,6 @@ build-mode = "both"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 included-patches = "'Permanent repeat'"
-excluded-patches = "'GmsCore support'"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [YouTube-Extended]
@@ -51,7 +50,6 @@ rv-brand = "ReVanced Extended"
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 included-patches = "'Remove player controls background'"
-excluded-patches = "'GmsCore support'"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Reddit-Extended]
