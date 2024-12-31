@@ -42,6 +42,7 @@ build-mode = "both"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 included-patches = "'Permanent repeat'"
+excludded-patches = "'Custom branding icon for YouTube Music' 'Custom branding name for YouTube Music'"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [YouTube-Extended]
