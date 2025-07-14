@@ -1,6 +1,6 @@
 {
-  "version": "v8.05.51 (patches: 5.6.2)",
-  "versionCode": 152,
-  "zipUrl": "https://github.com/Asfuri/ReVanced/releases/download/152/music-revanced-extended-magisk-v8.05.51-arm-v7a.zip",
+  "version": "v8.12.53 (patches: 5.7.1)",
+  "versionCode": 158,
+  "zipUrl": "https://github.com/Asfuri/ReVanced/releases/download/158/music-revanced-extended-magisk-v8.12.53-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/Asfuri/ReVanced/update/build.md"
 }
