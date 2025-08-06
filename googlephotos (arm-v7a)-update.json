@@ -1,6 +1,6 @@
 {
-  "version": "v7.36.0.779865778 (patches: 5.31.2)",
-  "versionCode": 158,
-  "zipUrl": "https://github.com/Asfuri/ReVanced/releases/download/158/googlephotos-revanced-magisk-v7.36.0.779865778-arm-v7a.zip",
+  "version": "v7.40.0.790840830 (patches: 5.33.0)",
+  "versionCode": 161,
+  "zipUrl": "https://github.com/Asfuri/ReVanced/releases/download/161/googlephotos-revanced-magisk-v7.40.0.790840830-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/Asfuri/ReVanced/update/build.md"
 }
